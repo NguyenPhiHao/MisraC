@@ -59,7 +59,7 @@ def config_table_properties(table):
 
 def main():
     # Đường dẫn cố định tới tài liệu Word
-    input_path = r"C:\Users\HaoNguyen\Desktop\MySkill\English\CodingRules\Code Rule.docx"
+    input_path = r"E:\Workspace\MisraC\MISRA_C_2012\Main.docx"
     path = convert_path(input_path)
 
     # Mở tài liệu Word đã có sẵn
